@@ -1,0 +1,22 @@
+{
+  "name": "ai-kitchen",
+  "version": "1.0.0",
+  "description": "Help you determine what to make depends on what's in your kitchen",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "posttest": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "  "
+  },
+  "keywords": [],
+  "author": "Hanjun Chen",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.98.0",
+    "fs": "0.0.1-security",
+    "loopback": "^3.10.0"
+  }
+}
